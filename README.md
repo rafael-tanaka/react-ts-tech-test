@@ -2,7 +2,7 @@
 
 This is Convex React TypeScript Tech Test.
 
-![Preview of Frontend](preview.png)
+![Preview of Frontend](public/preview.png)
 
 ## Requirements
 
