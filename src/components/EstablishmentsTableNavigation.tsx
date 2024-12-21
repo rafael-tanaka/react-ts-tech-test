@@ -5,6 +5,7 @@ const buttonStyle = {
 type EstablishmentsTableNavigationType = {
   pageNum: number;
   pageCount: number;
+  isLoading: boolean;
   onPreviousPage: () => void;
   onNextPage: () => void;
 };
@@ -12,25 +13,27 @@ type EstablishmentsTableNavigationType = {
 export const EstablishmentsTableNavigation = (
   props: EstablishmentsTableNavigationType
 ) => {
-  const { pageNum, pageCount, onPreviousPage, onNextPage } = props;
+  const { pageNum, pageCount, onPreviousPage, onNextPage, isLoading } = props;
   return (
     <nav>
       {
         <button
+          data-test="previous-page-button"
           type="button"
           style={buttonStyle}
-          disabled={pageNum <= 1}
+          disabled={pageNum <= 1 || isLoading}
           onClick={onPreviousPage}
         >
           -
         </button>
       }
-      {pageNum}
+      <span data-test="current-page-number">{pageNum}</span>
       {
         <button
+          data-test="next-page-button"
           type="button"
           style={buttonStyle}
-          disabled={pageNum >= pageCount}
+          disabled={pageNum >= pageCount || isLoading}
           onClick={onNextPage}
         >
           +

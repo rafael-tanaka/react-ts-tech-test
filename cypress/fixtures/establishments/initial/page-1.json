@@ -1,0 +1,176 @@
+{
+  "establishments": [
+      {
+          "FHRSID": 1466637,
+          "LocalAuthorityBusinessID": "R115D335BH/2",
+          "BusinessName": "MOCKED !NOSH!",
+          "BusinessType": "Takeaway/sandwich shop",
+          "RatingValue": "Pass",
+          "RatingDate": "2024-05-01T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/1466637"
+              }
+          ]
+      },
+      {
+          "FHRSID": 1315638,
+          "LocalAuthorityBusinessID": "219190",
+          "BusinessName": "\"A Cheeky Slice\"",
+          "BusinessType": "Retailers - other",
+          "RatingValue": "5",
+          "RatingDate": "2022-11-24T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/1315638"
+              }
+          ]
+      },
+      {
+          "FHRSID": 134047,
+          "LocalAuthorityBusinessID": "67154",
+          "BusinessName": "\"Buttylicious\"",
+          "BusinessType": "Takeaway/sandwich shop",
+          "RatingValue": "5",
+          "RatingDate": "2019-02-12T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/134047"
+              }
+          ]
+      },
+      {
+          "FHRSID": 648400,
+          "LocalAuthorityBusinessID": "P041542",
+          "BusinessName": "\"Five A Day\"",
+          "BusinessType": "Hospitals/Childcare/Caring Premises",
+          "RatingValue": "Exempt",
+          "RatingDate": "2020-01-29T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/648400"
+              }
+          ]
+      },
+      {
+          "FHRSID": 766323,
+          "LocalAuthorityBusinessID": "15469",
+          "BusinessName": "\"Ice Cold Slush\"",
+          "BusinessType": "Retailers - other",
+          "RatingValue": "5",
+          "RatingDate": "2018-10-09T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/766323"
+              }
+          ]
+      },
+      {
+          "FHRSID": 647010,
+          "LocalAuthorityBusinessID": "PI/000049330",
+          "BusinessName": "\"Juicy B's\"",
+          "BusinessType": "Retailers - other",
+          "RatingValue": "5",
+          "RatingDate": "2023-07-28T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/647010"
+              }
+          ]
+      },
+      {
+          "FHRSID": 1583687,
+          "LocalAuthorityBusinessID": "3605",
+          "BusinessName": "\"Kettle's On!\"",
+          "BusinessType": "Other catering premises",
+          "RatingValue": "5",
+          "RatingDate": "2023-04-11T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/1583687"
+              }
+          ]
+      },
+      {
+          "FHRSID": 1016978,
+          "LocalAuthorityBusinessID": "63918",
+          "BusinessName": "\"Mills Hill Infant School\",",
+          "BusinessType": "School/college/university",
+          "RatingValue": "5",
+          "RatingDate": "2023-06-21T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/1016978"
+              }
+          ]
+      },
+      {
+          "FHRSID": 1584416,
+          "LocalAuthorityBusinessID": "HAC1603",
+          "BusinessName": "\"MU\"",
+          "BusinessType": "Restaurant/Cafe/Canteen",
+          "RatingValue": "5",
+          "RatingDate": "2022-12-15T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/1584416"
+              }
+          ]
+      },
+      {
+          "FHRSID": 839411,
+          "LocalAuthorityBusinessID": "39925",
+          "BusinessName": "\"Olive Branch\" Edgeley Food Bank",
+          "BusinessType": "Retailers - supermarkets/hypermarkets",
+          "RatingValue": "5",
+          "RatingDate": "2024-03-26T00:00:00",
+          "links": [
+              {
+                  "rel": "self",
+                  "href": "http://api.ratings.food.gov.uk/establishments/839411"
+              }
+          ]
+      }
+  ],
+  "meta": {
+      "dataSource": "API",
+      "extractDate": "2025-01-03T01:13:12.5501007+00:00",
+      "itemCount": 10,
+      "returncode": "OK",
+      "totalCount": 598434,
+      "totalPages": 3,
+      "pageSize": 10,
+      "pageNumber": 1
+  },
+  "links": [
+      {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/establishments/basic/1/10"
+      },
+      {
+          "rel": "first",
+          "href": "http://api.ratings.food.gov.uk/establishments/basic/1/10"
+      },
+      {
+          "rel": "previous",
+          "href": "http://api.ratings.food.gov.uk/establishments/basic/1/10"
+      },
+      {
+          "rel": "next",
+          "href": "http://api.ratings.food.gov.uk/establishments/basic/2/10"
+      },
+      {
+          "rel": "last",
+          "href": "http://api.ratings.food.gov.uk/establishments/basic/59844/10"
+      }
+  ]
+}

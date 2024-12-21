@@ -1,0 +1,176 @@
+{
+    "establishments": [
+        {
+            "FHRSID": 1343953,
+            "LocalAuthorityBusinessID": "3713346",
+            "BusinessName": "#Buttylicious MOCK 3",
+            "BusinessType": "Restaurant/Cafe/Canteen",
+            "RatingValue": "5",
+            "RatingDate": "2023-05-26T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1343953"
+                }
+            ]
+        },
+        {
+            "FHRSID": 842969,
+            "LocalAuthorityBusinessID": "15/00226/CP",
+            "BusinessName": "#Chill And Waves",
+            "BusinessType": "Restaurant/Cafe/Canteen",
+            "RatingValue": "5",
+            "RatingDate": "2023-10-09T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/842969"
+                }
+            ]
+        },
+        {
+            "FHRSID": 1194035,
+            "LocalAuthorityBusinessID": "19/00027/MOBILE",
+            "BusinessName": "#Food",
+            "BusinessType": "Mobile caterer",
+            "RatingValue": "5",
+            "RatingDate": "2024-02-27T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1194035"
+                }
+            ]
+        },
+        {
+            "FHRSID": 1688977,
+            "LocalAuthorityBusinessID": "321969",
+            "BusinessName": "#News",
+            "BusinessType": "Retailers - other",
+            "RatingValue": "5",
+            "RatingDate": "2023-12-14T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1688977"
+                }
+            ]
+        },
+        {
+            "FHRSID": 1067762,
+            "LocalAuthorityBusinessID": "8863",
+            "BusinessName": "#Nofilter Coffeehouse",
+            "BusinessType": "Restaurant/Cafe/Canteen",
+            "RatingValue": "5",
+            "RatingDate": "2024-10-22T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1067762"
+                }
+            ]
+        },
+        {
+            "FHRSID": 1526313,
+            "LocalAuthorityBusinessID": "22/00464/FOOD",
+            "BusinessName": "#nom",
+            "BusinessType": "Restaurant/Cafe/Canteen",
+            "RatingValue": "5",
+            "RatingDate": "2022-08-08T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1526313"
+                }
+            ]
+        },
+        {
+            "FHRSID": 977909,
+            "LocalAuthorityBusinessID": "160780",
+            "BusinessName": "#Propig",
+            "BusinessType": "Mobile caterer",
+            "RatingValue": "5",
+            "RatingDate": "2018-06-13T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/977909"
+                }
+            ]
+        },
+        {
+            "FHRSID": 1753812,
+            "LocalAuthorityBusinessID": "156477",
+            "BusinessName": "#Spice",
+            "BusinessType": "Takeaway/sandwich shop",
+            "RatingValue": "AwaitingInspection",
+            "RatingDate": "1901-01-01T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1753812"
+                }
+            ]
+        },
+        {
+            "FHRSID": 371193,
+            "LocalAuthorityBusinessID": "219418",
+            "BusinessName": "#Stove",
+            "BusinessType": "Restaurant/Cafe/Canteen",
+            "RatingValue": "5",
+            "RatingDate": "2019-03-01T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/371193"
+                }
+            ]
+        },
+        {
+            "FHRSID": 1220366,
+            "LocalAuthorityBusinessID": "191074",
+            "BusinessName": "% Arabica",
+            "BusinessType": "Manufacturers/packers",
+            "RatingValue": "5",
+            "RatingDate": "2023-10-09T00:00:00",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://api.ratings.food.gov.uk/establishments/1220366"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "dataSource": "API",
+        "extractDate": "2025-01-03T01:21:26.9867193+00:00",
+        "itemCount": 10,
+        "returncode": "OK",
+        "totalCount": 598434,
+        "totalPages": 3,
+        "pageSize": 10,
+        "pageNumber": 3
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/establishments/basic/3/10"
+        },
+        {
+            "rel": "first",
+            "href": "http://api.ratings.food.gov.uk/establishments/basic/1/10"
+        },
+        {
+            "rel": "previous",
+            "href": "http://api.ratings.food.gov.uk/establishments/basic/2/10"
+        },
+        {
+            "rel": "next",
+            "href": "http://api.ratings.food.gov.uk/establishments/basic/4/10"
+        },
+        {
+            "rel": "last",
+            "href": "http://api.ratings.food.gov.uk/establishments/basic/59844/10"
+        }
+    ]
+}

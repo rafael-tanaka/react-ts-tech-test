@@ -1,0 +1,376 @@
+{
+  "establishments": [
+      {
+          "AddressLine1": "",
+          "AddressLine2": "38 Coldharbour Road",
+          "AddressLine3": "Westbury Park",
+          "AddressLine4": "Bristol",
+          "BusinessName": "11Eleven MOCKED BRISTOL",
+          "BusinessType": "Retailers - other",
+          "BusinessTypeID": 4613,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1435601,
+          "LocalAuthorityBusinessID": "257589",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS6 7NA",
+          "RatingDate": "2024-01-06T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.610409",
+              "latitude": "51.474944"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 5,
+              "ConfidenceInManagement": 5
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "115 Staple Hill Road",
+          "AddressLine3": "Fishponds",
+          "AddressLine4": "Bristol",
+          "BusinessName": "11Eleven Superstore",
+          "BusinessType": "Retailers - other",
+          "BusinessTypeID": 4613,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1518472,
+          "LocalAuthorityBusinessID": "258574",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS16 5AD",
+          "RatingDate": "2023-02-11T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.5172736",
+              "latitude": "51.4817476"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 5,
+              "ConfidenceInManagement": 5
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "52 Park Street",
+          "AddressLine3": "City Centre",
+          "AddressLine4": "Bristol",
+          "BusinessName": "168 Oriental",
+          "BusinessType": "Retailers - other",
+          "BusinessTypeID": 4613,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 895621,
+          "LocalAuthorityBusinessID": "126000",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS1 5JN",
+          "RatingDate": "2022-01-17T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.602655",
+              "latitude": "51.45477"
+          },
+          "scores": {
+              "Hygiene": 5,
+              "Structural": 5,
+              "ConfidenceInManagement": 5
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "1b Pitville Place",
+          "AddressLine3": "Cotham",
+          "AddressLine4": "Bristol",
+          "BusinessName": "1b Pitville",
+          "BusinessType": "Restaurant/Cafe/Canteen",
+          "BusinessTypeID": 1,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1378058,
+          "LocalAuthorityBusinessID": "256291",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS6 6JZ",
+          "RatingDate": "2023-11-02T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.607984",
+              "latitude": "51.463627"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 5,
+              "ConfidenceInManagement": 0
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "22 The Mall",
+          "AddressLine3": "Clifton",
+          "AddressLine4": "Bristol",
+          "BusinessName": "22 Clifton",
+          "BusinessType": "Retailers - other",
+          "BusinessTypeID": 4613,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1514148,
+          "LocalAuthorityBusinessID": "258366",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS8 4DS",
+          "RatingDate": "2023-03-27T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.620944",
+              "latitude": "51.455511"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 0,
+              "ConfidenceInManagement": 5
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "25a Old Market Street",
+          "AddressLine3": "St Philips",
+          "AddressLine4": "Bristol",
+          "BusinessName": "25a Old Market",
+          "BusinessType": "Restaurant/Cafe/Canteen",
+          "BusinessTypeID": 1,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1693138,
+          "LocalAuthorityBusinessID": "261427",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS2 0HB",
+          "RatingDate": "2024-04-09T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.582337",
+              "latitude": "51.45615"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 0,
+              "ConfidenceInManagement": 0
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "56a Greystoke Avenue",
+          "AddressLine3": "Southmead",
+          "AddressLine4": "Bristol",
+          "BusinessName": "3 Trees Respite (Westbury)",
+          "BusinessType": "Caring Premises",
+          "BusinessTypeID": 5,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 984141,
+          "LocalAuthorityBusinessID": "248562",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS10 6AZ",
+          "RatingDate": "2023-09-27T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.61394810676575",
+              "latitude": "51.4982872009277"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 0,
+              "ConfidenceInManagement": 0
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "43 St Nicholas Street",
+          "AddressLine3": "City Centre",
+          "AddressLine4": "Bristol",
+          "BusinessName": "30 mins",
+          "BusinessType": "Pub/bar/nightclub",
+          "BusinessTypeID": 7843,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1045658,
+          "LocalAuthorityBusinessID": "250039",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS1 1TP",
+          "RatingDate": "2022-04-14T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.594755",
+              "latitude": "51.453732"
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 0,
+              "ConfidenceInManagement": 0
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "",
+          "AddressLine3": "",
+          "AddressLine4": "",
+          "BusinessName": "321 Bake",
+          "BusinessType": "Restaurant/Cafe/Canteen",
+          "BusinessTypeID": 1,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1487559,
+          "LocalAuthorityBusinessID": "257958",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS10",
+          "RatingDate": "2022-07-25T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": null,
+              "latitude": null
+          },
+          "scores": {
+              "Hygiene": 0,
+              "Structural": 0,
+              "ConfidenceInManagement": 0
+          }
+      },
+      {
+          "AddressLine1": "",
+          "AddressLine2": "91a Whiteladies Road",
+          "AddressLine3": "Clifton",
+          "AddressLine4": "Bristol",
+          "BusinessName": "404 Bakes",
+          "BusinessType": "Retailers - other",
+          "BusinessTypeID": 4613,
+          "ChangesByServerID": 0,
+          "Distance": null,
+          "FHRSID": 1426493,
+          "LocalAuthorityBusinessID": "257474",
+          "LocalAuthorityCode": "855",
+          "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
+          "LocalAuthorityName": "Bristol",
+          "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
+          "NewRatingPending": false,
+          "Phone": "",
+          "PostCode": "BS8 2NT",
+          "RatingDate": "2023-10-31T00:00:00",
+          "RatingKey": "fhrs_5_en-gb",
+          "RatingValue": "5",
+          "RightToReply": "",
+          "SchemeType": "FHRS",
+          "geocode": {
+              "longitude": "-2.6089808",
+              "latitude": "51.4634859"
+          },
+          "scores": {
+              "Hygiene": 5,
+              "Structural": 5,
+              "ConfidenceInManagement": 5
+          }
+      }
+  ],
+  "meta": {
+      "dataSource": "ElasticSearch",
+      "extractDate": "2025-01-03T01:23:01.9720078+00:00",
+      "itemCount": 10,
+      "returncode": "OK",
+      "totalCount": 4503,
+      "totalPages": 1,
+      "pageSize": 10,
+      "pageNumber": 1
+  },
+  "links": [
+      {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/establishments?pagenumber=1&pagesize=10&localauthorityid=324"
+      },
+      {
+          "rel": "first",
+          "href": "http://api.ratings.food.gov.uk:80/establishments?pagenumber=1&pagesize=10&localauthorityid=324"
+      },
+      {
+          "rel": "previous",
+          "href": "http://api.ratings.food.gov.uk:80/establishments?pagenumber=1&pagesize=10&localauthorityid=324"
+      },
+      {
+          "rel": "next",
+          "href": "http://api.ratings.food.gov.uk:80/establishments?pagenumber=2&pagesize=10&localauthorityid=324"
+      },
+      {
+          "rel": "last",
+          "href": "http://api.ratings.food.gov.uk:80/establishments?pagenumber=451&pagesize=10&localauthorityid=324"
+      }
+  ]
+}

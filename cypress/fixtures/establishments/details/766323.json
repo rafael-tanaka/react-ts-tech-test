@@ -1,0 +1,34 @@
+{
+    "AddressLine1": "",
+    "AddressLine2": "",
+    "AddressLine3": "",
+    "AddressLine4": "",
+    "BusinessName": "\"Ice Cold Slush\"",
+    "BusinessType": "Retailers - other",
+    "BusinessTypeID": 4613,
+    "ChangesByServerID": 0,
+    "Distance": null,
+    "FHRSID": 766323,
+    "LocalAuthorityBusinessID": "15469",
+    "LocalAuthorityCode": "132",
+    "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
+    "LocalAuthorityName": "East Hampshire",
+    "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
+    "NewRatingPending": false,
+    "Phone": "",
+    "PostCode": "GU35",
+    "RatingDate": "2018-10-09T00:00:00",
+    "RatingKey": "fhrs_5_en-gb",
+    "RatingValue": "5",
+    "RightToReply": "",
+    "SchemeType": "FHRS",
+    "geocode": {
+        "longitude": null,
+        "latitude": null
+    },
+    "scores": {
+        "Hygiene": 0,
+        "Structural": 0,
+        "ConfidenceInManagement": 0
+    }
+}

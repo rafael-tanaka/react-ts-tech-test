@@ -1,6 +1,8 @@
 import React from "react";
 import { EstablishmentsTableRow } from "./EstablishmentsTableRow";
 import PropTypes from "prop-types";
+import { EstablishmentType } from "../api/ratingsAPI";
+import Loading from "./Loading";
 
 const headerStyle: { [key: string]: string | number } = {
   paddingBottom: "10px",
@@ -9,8 +11,8 @@ const headerStyle: { [key: string]: string | number } = {
 };
 
 export const EstablishmentsTable: React.FC<{
-  establishments: { [key: string]: string }[] | null | undefined;
-}> = ({ establishments }) => {
+  establishments: EstablishmentType[] | null | undefined, isLoading: boolean
+}> = ({ establishments, isLoading }) => {
   return (
     <table>
       <tbody>
@@ -18,10 +20,11 @@ export const EstablishmentsTable: React.FC<{
           <th style={headerStyle}>Business Name</th>
           <th style={headerStyle}>Rating Value</th>
         </tr>
-        {establishments &&
+        { isLoading ? <Loading dataTestId={"loading-establishments"}/>: 
+        establishments &&
           establishments?.map(
             (
-              establishment: { [key: string]: string } | null | undefined,
+              establishment: EstablishmentType,
               index: React.Key | null | undefined
             ) => (
               <EstablishmentsTableRow

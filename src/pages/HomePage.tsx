@@ -1,4 +1,4 @@
-import { PaginatedEstablishmentsTable } from "./PaginatedEstablishmentsTable";
+import { PaginatedEstablishmentsTable } from "../components/PaginatedEstablishmentsTable";
 import Background from "../static/logo.svg";
 
 const logoStyle: { [key: string]: string | number } = {

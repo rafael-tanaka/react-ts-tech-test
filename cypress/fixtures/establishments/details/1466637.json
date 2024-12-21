@@ -1,0 +1,34 @@
+{
+  "AddressLine1": "",
+  "AddressLine2": "35b High Street",
+  "AddressLine3": "Auchterarder",
+  "AddressLine4": "",
+  "BusinessName": "!NOSH!",
+  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessTypeID": 7844,
+  "ChangesByServerID": 0,
+  "Distance": null,
+  "FHRSID": 1466637,
+  "LocalAuthorityBusinessID": "R115D335BH/2",
+  "LocalAuthorityCode": "786",
+  "LocalAuthorityEmailAddress": "ES@pkc.gov.uk",
+  "LocalAuthorityName": "Perth and Kinross",
+  "LocalAuthorityWebSite": "http://www.pkc.gov.uk/Business+and+trade/Health+and+safety/Health+and+safety+-+food/Food+hygiene/Food+hygiene+information/Food+Hygiene+Information.htm",
+  "NewRatingPending": false,
+  "Phone": "",
+  "PostCode": "PH3 1DB",
+  "RatingDate": "2024-05-01T00:00:00",
+  "RatingKey": "fhis_pass_en-gb",
+  "RatingValue": "Pass",
+  "RightToReply": "",
+  "SchemeType": "FHIS",
+  "geocode": {
+      "longitude": "-3.70293998718262",
+      "latitude": "56.2970924377441"
+  },
+  "scores": {
+      "Hygiene": null,
+      "Structural": null,
+      "ConfidenceInManagement": null
+  }
+}
